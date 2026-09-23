@@ -1,6 +1,6 @@
 # N32G031_LED_BLINK — GPIO Hello World
 
-![Blink](doc/images/blink.png)
+![Blink](doc/images/Blinky_on_PB7.png)
 
 An introductory project designed to teach basic GPIO (General Purpose Input/Output) control using the **N32G031** microcontroller. This "Hello World" of hardware serves as an excellent foundational learning tool for beginners and students to understand digital outputs, basic circuit wiring, and timing functions. This project is fully optimized for cross-platform workflows using UnityMbed.
 
